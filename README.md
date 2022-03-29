@@ -6,6 +6,7 @@ And in case of YOLO the name itself explains a lot about it, that it just goes t
 # Requirements
 
 -Python
+
 -OpenCV
 
 YOLO trained on the COCO dataset. The COCO dataset consists of 80 labels. Beside coco.names file we will also need weight and cfg files.
